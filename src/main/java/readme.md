@@ -2,7 +2,8 @@
 
 This project is an project assignment in Comp3111
 
-
+## Images
+![Example Image](Lab1/capture_screen.png)
 ## Usage
 
 Mainly focus on using java.
