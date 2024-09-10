@@ -1,9 +1,10 @@
-# Project Name
+# Comp3111LEx
 
-This project is a project assignment in Comp3111.
-
-## Images
-![Example Image](../capture_screen.png)
+This is my 1st lab in Comp3111 - Software Engineering
+1. I have learnt the way to build a Java Project in IntelliJ;
+2. I have successful created my first GitHub to share the project source with others;
+Here is my screenshot of my 1st lab project in  IntelliJ;
+![Image](../capture_screen.png)
 ## Usage
 
 Mainly focus on using java.
